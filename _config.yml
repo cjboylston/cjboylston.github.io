@@ -112,6 +112,7 @@ author:
   bio              : "Computer Science Student"
   location         : "Atlanta, GA"
   email            :
+  github           : "cjboylston"
   links:
     - label: "Email"
       icon: "cboylston@gatech.edu"
@@ -142,7 +143,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "cjboylston"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
