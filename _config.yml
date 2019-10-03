@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Christian Boylston"
-  avatar           : "/images/bio-pic.png"
+  avatar           : "/images/bio_pic.png"
   bio              : "Computer Science Student"
   location         : "Atlanta, GA"
   email            :
